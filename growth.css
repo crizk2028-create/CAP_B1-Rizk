@@ -24,11 +24,18 @@ ul li a:hover {
 }
 
 h1{
-  color: #88b4fb;
+  color: #ba87ee;
   text-align: center;
+  padding:30;
 }
 
 iframe{
   display: block;
   margin: 20px auto;
 }
+
+p{ 
+  padding:30;
+  text-indent: 30;
+  font-family: monospace;
+ }
