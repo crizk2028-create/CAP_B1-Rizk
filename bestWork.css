@@ -25,7 +25,7 @@ ul li a:hover {
 
 p{
   padding: 10px;
-  text-indent: 30;
+  text-indent: 30px;
   font-family: monospace;
   
 }
@@ -36,7 +36,7 @@ color: #7e76ea;
 }
 
 h3{
-  padding: 10;
+  padding: 10px;
 }
 
 iframe{
