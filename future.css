@@ -24,6 +24,17 @@ ul li a:hover {
 }
 
 h1{
-  color: #88b4fb;
+  color: #0c4101;
   text-align: center;
+}
+
+p{
+  padding:30;
+  text-indent: 30;
+  font-family: sans-serif;
+}
+
+iframe{
+  display: block;
+  margin: 20px auto;
 }
