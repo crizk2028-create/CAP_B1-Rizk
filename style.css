@@ -40,28 +40,28 @@ ul li a:hover {
 
 
 p{
-  text-indent: 30;
+  text-indent: 30px;
   font-family: fantasy;
 }
 .aboutMe{
- padding-left: 20;
+ padding-left: 20px;
   padding-top:0;
 }
 .growth{
-  padding-left: 20;
-  padding-top:0;
+  padding-left: 20px;
+  padding-top:0px;
   
 }
 
 .bestWork{
-  padding-left:20;
-  padding-top:0;
+  padding-left:20px;
+  padding-top:0px;
   
 }
 
 .future{
-  padding-left:20;
-  padding-top:0;
+  padding-left:20px;
+  padding-top:0px;
 }
 
 .about-ME{
