@@ -29,7 +29,7 @@ h1{
 }
 
 p{
-  text-indent:30;
+  text-indent:30px;
   font-family: cursive;
   padding:10px;
 }
@@ -40,7 +40,7 @@ p{
 }
 
 .spotify{
-  width: 150;
+  width: 150px;
   display: block;
   margin: 20px auto;
 }
