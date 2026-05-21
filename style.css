@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  padding-top: 20;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h2{
+  text-align: center;
+  font-family: sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #9caf88;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: fantasy;
+}
+
+ul li a:hover {
+  background-color: #667e64;
+}
+
+
+p{
+  text-indent: 30;
+  font-family: fantasy;
+}
+.aboutMe{
+ padding-left: 20;
+  padding-top:0;
+}
+.growth{
+  padding-left: 20;
+  padding-top:0;
+  
+}
+
+.bestWork{
+  padding-left:20;
+  padding-top:0;
+  
+}
+
+.future{
+  padding-left:20;
+  padding-top:0;
+}
+
+.about-ME{
+  border: 4px solid #aeddf4;
+}
+
+.growth-div{
+   border: 3.5px dashed #ba87ee;
+}
+
+.best-WORK{
+ border: 6px double #f1d41e;
+}
+
+.future-div{
+   border: 5px dotted #0c4101;
+}

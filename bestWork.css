@@ -1,0 +1,49 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #007ebd;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: fantasy;
+}
+
+ul li a:hover {
+  background-color: #015883;
+}
+
+p{
+  padding: 10px;
+  text-indent: 30;
+  font-family: monospace;
+  
+}
+
+h1{
+  text-align: center;
+color: #7e76ea;
+}
+
+h3{
+  padding: 10;
+}
+
+iframe{
+  padding: 20px;
+}
+
+h1{
+  color: #88b4fb;
+  text-align: center;
+}
