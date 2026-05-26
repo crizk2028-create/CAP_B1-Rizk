@@ -1,6 +1,6 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 h1 {
@@ -15,8 +15,8 @@ h2{
 }
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 0px;
   overflow: hidden;
   background-color: #9caf88;
 }
@@ -45,7 +45,7 @@ p{
 }
 .aboutMe{
  padding-left: 20px;
-  padding-top:0;
+  padding-top:0px;
 }
 .growth{
   padding-left: 20px;
@@ -65,17 +65,24 @@ p{
 }
 
 .about-ME{
+  margin:20px;
   border: 4px solid #aeddf4;
+  
 }
 
 .growth-div{
    border: 3.5px dashed #ba87ee;
+   margin: 20px;
 }
 
 .best-WORK{
  border: 6px double #f1d41e;
+  justify-content: center;
+  align-items: center;
+   margin: 20px;
 }
 
 .future-div{
    border: 5px dotted #0c4101;
+   margin: 20px;
 }
